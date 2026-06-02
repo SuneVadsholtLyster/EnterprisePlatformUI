@@ -26,18 +26,18 @@ It is designed as a separate repo so the UI can evolve independently from the da
 
 ## Tech stack
 
-- Frontend: `React` / `Vue` / `Svelte` / `Angular` (choose one)
-- Build: `Vite` / `Create React App`
+- Frontend: `React`
+- Build: `Create React App`
 - Language: `TypeScript`
-- Styling: `Tailwind CSS` / `CSS Modules`
-- Data format: JSON / Markdown / REST API
+- Styling: `Tailwind CSS`
+- Data format: JSON
 
 ---
 
 ## Getting started
 
 ```bash
-git clone https://github.com/<org>/enterprise-transformation-frontend.git
+git clone https://github.com/SuneVadsholtLyster/enterprise-transformation-frontend.git
 cd enterprise-transformation-frontend
 npm install
 npm run dev
