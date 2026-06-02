@@ -1,0 +1,31 @@
+---
+!!python/object/apply:collections.OrderedDict
+- - - type
+    - data_object
+  - - id
+    - data-object-release-artifact
+  - - title
+    - Object Release Artifact
+  - - status
+    - active
+  - - description
+    - A logical data object representing a release artifact generated from build and
+      CI/CD pipelines, stored and managed for deployment and traceability.
+  - - steward
+    - Engineering Platform Team
+  - - classification
+    - Internal release asset
+  - - privacy
+    - Confidential
+  - - owned_by
+    - - Developer Office Denmark
+  - - used_by_applications
+    - - GitHub
+  - - shared_with_organizations
+    - - Developer Office Denmark
+  - - relations
+    - parent: ''
+      children: []
+  - - last_reviewed
+    - 2026-06-02
+---

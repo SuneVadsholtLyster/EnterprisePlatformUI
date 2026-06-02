@@ -1,0 +1,22 @@
+---
+type: application
+id: ""
+title: ""
+status: active
+description: ""
+name: ""
+owner: ""
+business_criticality: ""
+lifecycle_stage: ""
+technology_stack: []
+platforms: []
+providers: []
+interfaces: []
+data_objects: []
+business_capabilities: []
+it_components: []
+relations:
+  parent: ""
+  children: []
+last_reviewed: 2026-06-01
+---

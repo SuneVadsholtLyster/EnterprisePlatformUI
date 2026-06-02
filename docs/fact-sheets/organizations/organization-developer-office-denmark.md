@@ -1,0 +1,33 @@
+---
+!!python/object/apply:collections.OrderedDict
+- - - type
+    - organization
+  - - id
+    - organization-developer-office-denmark
+  - - title
+    - Developer Office Denmark
+  - - status
+    - active
+  - - description
+    - The Developer Office Denmark is the local engineering organization responsible
+      for developer productivity, platform adoption, and governance within Denmark.
+  - - organization_type
+    - Engineering Organization
+  - - region
+    - Denmark
+  - - owner
+    - Developer Office Lead
+  - - managed_applications
+    - - GitHub
+      - Internal developer CLI tools
+  - - capabilities
+    - - Developer productivity
+      - Platform governance
+  - - providers
+    - - GitHub
+  - - relations
+    - parent: ''
+      children: []
+  - - last_reviewed
+    - 2026-06-02
+---

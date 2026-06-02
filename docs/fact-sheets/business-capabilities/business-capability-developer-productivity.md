@@ -1,0 +1,31 @@
+---
+!!python/object/apply:collections.OrderedDict
+- - - type
+    - capability
+  - - id
+    - business-capability-developer-productivity
+  - - title
+    - Capability Developer Productivity
+  - - status
+    - active
+  - - level
+    - 2
+  - - description
+    - Developer productivity is the business capability that enables engineering teams
+      to deliver software efficiently through tools, collaboration, and automation.
+  - - owner
+    - Developer Office Denmark
+  - - value_streams
+    - - Software delivery
+  - - strategic_objectives
+    - - Improve engineering throughput
+  - - applications
+    - - GitHub
+  - - organizations
+    - - Developer Office Denmark
+  - - relations
+    - parent: ''
+      children: []
+  - - last_reviewed
+    - 2026-06-02
+---

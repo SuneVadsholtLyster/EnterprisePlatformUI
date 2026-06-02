@@ -1,0 +1,33 @@
+---
+!!python/object/apply:collections.OrderedDict
+- - - type
+    - objective
+  - - id
+    - objective-governed-enterprise-architecture
+  - - title
+    - Governed Enterprise Architecture
+  - - status
+    - active
+  - - description
+    - Establish a governed enterprise architecture practice that ensures consistent
+      architecture decision-making, traceability, and compliance across the organization.
+  - - owner
+    - Enterprise Architecture Council
+  - - target_date
+    - '2026-12-31'
+  - - strategic_theme
+    - Architecture Governance
+  - - key_results
+    - - Define and publish enterprise architecture standards and policies
+      - Achieve 100% review coverage for critical architecture fact sheets
+      - Establish a quarterly architecture review cadence
+  - - related_initiatives
+    - - Enterprise Architecture Governance Framework
+  - - related_capabilities
+    - - Developer productivity
+  - - relations
+    - parent: ''
+      children: []
+  - - last_reviewed
+    - 2026-06-02
+---

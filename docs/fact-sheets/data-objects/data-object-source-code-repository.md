@@ -1,0 +1,31 @@
+---
+!!python/object/apply:collections.OrderedDict
+- - - type
+    - data_object
+  - - id
+    - data-object-source-code-repository
+  - - title
+    - Object Source Code Repository
+  - - status
+    - active
+  - - description
+    - A logical data object representing a source code repository managed within GitHub
+      and used by engineering teams for development collaboration.
+  - - steward
+    - Engineering Platform Team
+  - - classification
+    - Internal code asset
+  - - privacy
+    - Confidential
+  - - owned_by
+    - - Developer Office Denmark
+  - - used_by_applications
+    - - GitHub
+  - - shared_with_organizations
+    - - Developer Office Denmark
+  - - relations
+    - parent: ''
+      children: []
+  - - last_reviewed
+    - 2026-06-02
+---

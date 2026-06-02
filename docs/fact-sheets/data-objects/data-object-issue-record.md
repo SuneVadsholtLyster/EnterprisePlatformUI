@@ -1,0 +1,31 @@
+---
+!!python/object/apply:collections.OrderedDict
+- - - type
+    - data_object
+  - - id
+    - data-object-issue-record
+  - - title
+    - Object Issue Record
+  - - status
+    - active
+  - - description
+    - A logical data object representing a work item or issue record used to track
+      development tasks, defects, and change requests.
+  - - steward
+    - Engineering Platform Team
+  - - classification
+    - Operational data
+  - - privacy
+    - Internal
+  - - owned_by
+    - - Developer Office Denmark
+  - - used_by_applications
+    - - GitHub
+  - - shared_with_organizations
+    - - Developer Office Denmark
+  - - relations
+    - parent: ''
+      children: []
+  - - last_reviewed
+    - 2026-06-02
+---

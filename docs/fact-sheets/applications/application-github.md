@@ -1,0 +1,47 @@
+---
+!!python/object/apply:collections.OrderedDict
+- - - type
+    - application
+  - - id
+    - application-github
+  - - title
+    - GitHub
+  - - status
+    - active
+  - - description
+    - GitHub is a SaaS application for source code hosting, collaboration, and developer
+      workflow automation. It is consumed as part of the broader Developer Platform.
+  - - name
+    - GitHub
+  - - owner
+    - Engineering Platform Team
+  - - business_criticality
+    - high
+  - - lifecycle_stage
+    - operational
+  - - technology_stack
+    - - GitHub SaaS
+      - GitHub Actions
+      - GitHub Packages
+  - - platforms
+    - - Developer Platform
+  - - providers
+    - - GitHub
+  - - interfaces
+    - - GitHub REST API
+      - GitHub GraphQL API
+      - OAuth / SSO
+  - - data_objects
+    - - Source code repositories
+      - Release artifacts
+  - - business_capabilities
+    - - Developer productivity
+      - Continuous delivery
+  - - it_components
+    - - Repository hosting
+  - - relations
+    - parent: ''
+      children: []
+  - - last_reviewed
+    - 2026-06-02
+---

@@ -1,0 +1,36 @@
+---
+!!python/object/apply:collections.OrderedDict
+- - - type
+    - it_component
+  - - id
+    - it-component-github-repository-hosting
+  - - title
+    - Component GitHub Repository Hosting
+  - - status
+    - active
+  - - description
+    - A hosted repository service component that provides version control, branching,
+      and pull request workflows for development teams.
+  - - category
+    - Source Code Management
+  - - vendor
+    - GitHub
+  - - version
+    - SaaS
+  - - lifecycle_stage
+    - operational
+  - - platforms
+    - - Developer Platform
+  - - providers
+    - - GitHub
+  - - applications
+    - - GitHub
+  - - interfaces
+    - - GitHub REST API
+      - GitHub GraphQL API
+  - - relations
+    - parent: ''
+      children: []
+  - - last_reviewed
+    - 2026-06-02
+---

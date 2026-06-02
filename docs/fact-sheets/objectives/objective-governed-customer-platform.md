@@ -1,0 +1,33 @@
+---
+!!python/object/apply:collections.OrderedDict
+- - - type
+    - objective
+  - - id
+    - objective-governed-customer-platform
+  - - title
+    - Governed Customer Platform
+  - - status
+    - active
+  - - description
+    - Establish a governed customer-facing platform that delivers secure, reliable,
+      and compliant platform services to customers.
+  - - owner
+    - Developer Office Denmark
+  - - target_date
+    - '2026-12-31'
+  - - strategic_theme
+    - Platform Governance
+  - - key_results
+    - - Define customer platform governance controls and service agreements
+      - Implement platform onboarding and approval workflows
+      - Monitor platform compliance and customer satisfaction
+  - - related_initiatives
+    - - Customer Platform Governance
+  - - related_capabilities
+    - - Developer productivity
+  - - relations
+    - parent: ''
+      children: []
+  - - last_reviewed
+    - 2026-06-02
+---

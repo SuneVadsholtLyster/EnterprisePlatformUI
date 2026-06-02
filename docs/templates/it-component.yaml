@@ -1,0 +1,19 @@
+---
+type: it_component
+id: ""
+title: ""
+status: active
+description: ""
+category: ""
+vendor: ""
+version: ""
+lifecycle_stage: ""
+platforms: []
+providers: []
+applications: []
+interfaces: []
+relations:
+  parent: ""
+  children: []
+last_reviewed: 2026-06-01
+---

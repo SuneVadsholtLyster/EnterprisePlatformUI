@@ -1,0 +1,17 @@
+---
+type: organization
+id: ""
+title: ""
+status: active
+description: ""
+organization_type: ""
+region: ""
+owner: ""
+managed_applications: []
+capabilities: []
+providers: []
+relations:
+  parent: ""
+  children: []
+last_reviewed: 2026-06-01
+---

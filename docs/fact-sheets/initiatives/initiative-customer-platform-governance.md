@@ -1,0 +1,36 @@
+---
+!!python/object/apply:collections.OrderedDict
+- - - type
+    - initiative
+  - - id
+    - initiative-customer-platform-governance
+  - - title
+    - Customer Platform Governance
+  - - status
+    - planning
+  - - description
+    - Build and govern the customer-facing platform with clear service agreements,
+      onboarding, and compliance controls.
+  - - sponsor
+    - Developer Office Denmark
+  - - start_date
+    - '2026-06-01'
+  - - end_date
+    - '2026-12-31'
+  - - budget
+    - TBD
+  - - objectives
+    - - Governed Customer Platform
+  - - impacted_applications
+    - - GitHub
+      - Internal developer CLI tools
+  - - related_capabilities
+    - - Developer productivity
+  - - organizations
+    - - Developer Office Denmark
+  - - relations
+    - parent: ''
+      children: []
+  - - last_reviewed
+    - 2026-06-02
+---

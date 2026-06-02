@@ -1,0 +1,36 @@
+---
+!!python/object/apply:collections.OrderedDict
+- - - type
+    - provider
+  - - id
+    - provider-github
+  - - title
+    - GitHub
+  - - status
+    - active
+  - - description
+    - GitHub provides SaaS-based source code hosting, collaboration, and developer
+      workflow services used by the Developer Platform.
+  - - provider_type
+    - SaaS
+  - - industry
+    - Developer tools
+  - - region
+    - Global
+  - - services
+    - - Source code management
+      - Collaboration and pull requests
+      - CI/CD automation
+      - Package management
+  - - contracts
+    - - GitHub Enterprise Cloud subscription
+  - - applications
+    - - GitHub
+  - - it_components
+    - - GitHub Repository Hosting
+  - - relations
+    - parent: ''
+      children: []
+  - - last_reviewed
+    - 2026-06-02
+---

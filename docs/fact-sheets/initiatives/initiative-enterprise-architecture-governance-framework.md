@@ -1,0 +1,36 @@
+---
+!!python/object/apply:collections.OrderedDict
+- - - type
+    - initiative
+  - - id
+    - initiative-enterprise-architecture-governance-framework
+  - - title
+    - Enterprise Architecture Governance Framework
+  - - status
+    - planning
+  - - description
+    - Create and deploy a governance framework for enterprise architecture, including
+      standards, review processes, and architecture artifact management.
+  - - sponsor
+    - Enterprise Architecture Council
+  - - start_date
+    - '2026-06-01'
+  - - end_date
+    - '2026-12-31'
+  - - budget
+    - TBD
+  - - objectives
+    - - Governed Enterprise Architecture
+  - - impacted_applications
+    - - GitHub
+      - Internal developer CLI tools
+  - - related_capabilities
+    - - Developer productivity
+  - - organizations
+    - - Developer Office Denmark
+  - - relations
+    - parent: ''
+      children: []
+  - - last_reviewed
+    - 2026-06-02
+---

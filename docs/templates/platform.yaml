@@ -1,0 +1,17 @@
+---
+type: platform
+id: ""
+title: ""
+status: active
+description: ""
+category: ""
+provider: ""
+technology_stack: []
+supported_services: []
+applications: []
+it_components: []
+relations:
+  parent: ""
+  children: []
+last_reviewed: 2026-06-01
+---

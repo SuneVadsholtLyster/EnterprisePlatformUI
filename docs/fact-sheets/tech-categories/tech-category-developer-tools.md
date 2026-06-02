@@ -1,0 +1,31 @@
+---
+!!python/object/apply:collections.OrderedDict
+- - - type
+    - tech_category
+  - - id
+    - tech-category-developer-tools
+  - - title
+    - Category Developer Tools
+  - - status
+    - active
+  - - description
+    - Technology category for developer tooling and collaboration platforms used by
+      engineering teams.
+  - - category_level
+    - 1
+  - - owner
+    - Developer Platform Team
+  - - technology_examples
+    - - GitHub
+      - GitHub Actions
+      - GitHub Packages
+  - - it_components
+    - - GitHub Repository Hosting
+  - - applications
+    - - GitHub
+  - - relations
+    - parent: ''
+      children: []
+  - - last_reviewed
+    - 2026-06-02
+---

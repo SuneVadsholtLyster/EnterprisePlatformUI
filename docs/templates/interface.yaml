@@ -1,0 +1,18 @@
+---
+type: interface
+id: ""
+title: ""
+status: active
+description: ""
+interface_type: ""
+source: ""
+target: ""
+protocol: ""
+data_objects: []
+applications: []
+providers: []
+relations:
+  parent: ""
+  children: []
+last_reviewed: 2026-06-01
+---
